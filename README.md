@@ -340,28 +340,12 @@ This system is designed to answer a real business question: **how do we minimize
 <img width="1919" height="220" alt="apitest" src="https://github.com/user-attachments/assets/60402b13-9691-4544-8fa8-002ef47f591e" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br /><br />
 
 
 <img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/8ff5263c-6b10-4287-94a7-f6ba7863a254" />
 
-
+<br /><br />
 
 
 
@@ -378,7 +362,7 @@ This system is designed to answer a real business question: **how do we minimize
 <img width="1920" height="1080" alt="label" src="https://github.com/user-attachments/assets/258dfbd0-9085-4388-ba97-ffe89cbe3acf" />
 
 
-
+<br /><br />
 
 
 
@@ -392,7 +376,7 @@ This system is designed to answer a real business question: **how do we minimize
 
 <img width="1920" height="1080" alt="predictionmanual" src="https://github.com/user-attachments/assets/30ca20f8-f29c-44b8-aea0-923d7507f6c2" />
 
-
+<br /><br />
 
 ## 👤 Author
 
